@@ -43,3 +43,4 @@ def analyze_article(articles: List[Article]):
     return{"ents":ents,"comments":comments}
 
     # return {"message":article.content,"comments":article.comments,"ents":ents}
+    # return {"message":article.content,"comments":article.comments,"ents":ents}
